@@ -1,6 +1,6 @@
 ### <h1>Olá! Me chamo Murillo Araújo 👋 </h1> 
 
-<p style="display: inline_block">Atualmente estou trabalhando como desenvolvedor fullstack na empresa Corebiz
+<p style="display: inline_block">Atualmente estou trabalhando como desenvolvedor Fullstack na empresa Corebiz
  
  ##
 
