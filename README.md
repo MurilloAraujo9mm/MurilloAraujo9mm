@@ -1,9 +1,5 @@
-### <h1>Olá! Meu nome é Murillo Araújo 👋 </h1> 
+### <h1>Murillo Araújo 👋 </h1> 
 
-<p style="display: inline_block">Atualmente estou trabalhando como desenvolvedor Fullstack na empresa Corebiz
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-
- ##
 
 <a href="https://www.corebiz.ag/pt/" target="_blank">![corebiz-black](https://user-images.githubusercontent.com/26441702/118388458-0037ae80-b5fb-11eb-8020-c27bca070bbd.jpg)</a>
 
