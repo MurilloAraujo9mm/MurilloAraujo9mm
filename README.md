@@ -1,8 +1,5 @@
 ### <h1>Murillo Araújo 👋 </h1> 
 
-
-<a href="https://www.corebiz.ag/pt/" target="_blank">![corebiz-black](https://user-images.githubusercontent.com/26441702/118388458-0037ae80-b5fb-11eb-8020-c27bca070bbd.jpg)</a>
-
  <div>
   <a href="https://github.com/MurilloAraujo9mm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MurilloAraujo9mm&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
